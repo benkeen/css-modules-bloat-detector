@@ -1,0 +1,10 @@
+.panels {
+    display: flex;
+    flex-direction: row;
+}
+.codePanel {
+    flex: 1;
+}
+.generatedPanel {
+    flex: 1;
+}
